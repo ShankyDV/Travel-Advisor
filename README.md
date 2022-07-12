@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# Travel Advisor App
 
 In the project directory, you can run:
 
@@ -11,60 +7,40 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]( https://justvideoit.netlify.app/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-### `npm test`
+A Travel Companion which shows hotels, restaurants, and attractions using Google-Map-API and TravelAdvisor-API from RapidAPI.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Agile Methodology was used for building this project.**
+The project includes -
 
-### `npm run build`
+* *Test-driven development*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* *Code refactoring*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* *Continuous integration*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* *Simple code design*
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Live Website link 
+***
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Chat App Link** -  ***https://travel-advisorwebapp.netlify.app/***
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Technologies
+***
+A list of technologies used within the project:
+* React
+* Node.js
+* Google API
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Screenshots
+###Hotel
+![Hotel](https://user-images.githubusercontent.com/86783410/178529154-43cad68b-180e-4714-93dd-9c419846a59c.png)
+### Rating
+![Rating](https://user-images.githubusercontent.com/86783410/178529260-00f9a880-4dbf-41f4-978d-c7f677f842fc.png)
+### Restuarent
+![Screenshot 2022-07-12 205623](https://user-images.githubusercontent.com/86783410/178529302-52286d87-cac8-45ea-ab1c-82a2a30d2102.png)
